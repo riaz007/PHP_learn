@@ -1,6 +1,6 @@
-Program to create diamond pattern
+Program to create diamond pattern</br></br>
 
-<?php
+ <?php
 $n=8;
 for($i=$n;$i>=1;$i--)
 {
